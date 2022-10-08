@@ -1,4 +1,4 @@
-## Hi there 👋, my name is r2spr, Welcome to my GitHub Profile
+## Hi there! My name is R2spr - Welcome to my GitHub Profile
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/r2spr/&title=Profile%20Views)
 # My Social Profiles
 <p align="center">
